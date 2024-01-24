@@ -8,8 +8,12 @@ How sales, customer support, marketing and other go-to-market functions in the c
 
 Zapier is an online automation tool that allows you to connect your favorite apps, such as Gmail, Slack, Mailchimp, and more than 3,000 others. You can automate repetitive tasks, known as "Zaps," by creating workflows that trigger actions in one app based on events that occur in another app.
 
+Click here to watch the Demo [Link](https://drive.google.com/file/d/14ZQrC7fHC-pl0jFDq3YUiSlSklqj6I4v/view?usp=drive_link)
+
 **Architecture:**
 ![Automating PDF Analysis](https://github.com/aravindsriraj/Automated-PDF-Analysis-With-Zapier-and-Open-AI/assets/60252521/2b994d50-06ea-4be8-83c9-5648f6af19b4)
+
+
 
 
 ## Steps Followed:
